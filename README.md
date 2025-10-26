@@ -50,9 +50,9 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 
 ### → Let’s Connect
 → **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
-→ **Upwork:** [upwork.com/freelancers/~0135365ac3c104690b?mp_source=share](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
-→ **LinkedIn:** [linkedin.com/in/zakyk9](https://www.linkedin.com/in/zakyk9/)  
-→ **Portfolio:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)  
+→ **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
+→ **LinkedIn:** [Linkedin Zaky](https://www.linkedin.com/in/zakyk9/)  
+→ **Explore My Website:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)  
 
 ---
 
