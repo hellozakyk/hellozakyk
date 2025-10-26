@@ -50,11 +50,9 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 
 ### → Professional Profiles
 • 💼 **LinkedIn:** [Linkedin Zaky](https://www.linkedin.com/in/zakyk9/)
-
 • 💼 **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)
 
 ### → Contact & Portfolio
 • 📩 **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)
-
 • 🌐 **Explore My Website:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)
 ---
