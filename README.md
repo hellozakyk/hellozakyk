@@ -1,11 +1,8 @@
-# Hi, I’m ZakyK  
+# Hi, I’m ZakyK👋
 
-**Graphic Designer & Frontend Developer | Crafting Visuals That Work Beautifully on the Web**
+→ **Graphic Designer & Frontend Developer | Crafting Visuals That Work Beautifully on the Web** ←
 
-Welcome to my creative playground on GitHub.  
-I combine **a designer’s eye for aesthetics** with **a developer’s mind for structure**, creating visuals and interfaces that are not only beautiful but also intuitive and technically sound.  
-
-I’ve been working as a **freelancer on Upwork for over 3+ years (100% JSS)** — helping brands and businesses shape their identity through strong visuals and seamless digital experiences.
+I combine **a designer’s eye for aesthetics** with **a developer’s mind for structure**, creating visuals and interfaces that are not only beautiful but also intuitive and technically sound.  I’ve been working as a **freelancer on Upwork for over 3+ years (100% JSS)** — helping brands and businesses shape their identity through strong visuals and seamless digital experiences.
 
 ---
 
