@@ -21,14 +21,14 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 ---
 
 # What I Do
-#### → Design
+### → Design
 • Logo & Brand Identity Design  
 • UI/UX & Web Layout Design  
 • Brand Guidelines Development  
 • Illustration & Vector Artwork  
 • Packaging & Marketing Collateral  
 
-#### → Frontend Development
+### → Frontend Development
 • Responsive Website Development  
 • HTML, CSS, JavaScript  
 • React & Tailwind CSS  
