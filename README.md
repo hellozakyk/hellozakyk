@@ -1,4 +1,4 @@
-# Hi, I’m Zaky  
+# Hi, I’m ZakyK  
 
 **Graphic Designer & Frontend Developer | Crafting Visuals That Work Beautifully on the Web**
 
@@ -9,7 +9,7 @@ I’ve been working as a **freelancer on Upwork for over 3+ years (100% JSS)** �
 
 ---
 
-### • About Me
+### → About Me
 • Currently working as a **Freelance Graphic Designer & Frontend Developer**.  
 • Experienced in **visual identity design**, **UI design**, and **web implementation** using modern frontend frameworks.  
 • Previously worked in **Information Technology Operations Support** within the private banking sector.  
@@ -18,12 +18,12 @@ I’ve been working as a **freelancer on Upwork for over 3+ years (100% JSS)** �
 
 ---
 
-### • My Focus
+### → My Focus
 Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • Tailored to Each Brand’s Voice  
 
 ---
 
-### • What I Do
+### → What I Do
 #### → Design
 • Logo & Brand Identity Design  
 • UI/UX & Web Layout Design  
@@ -39,16 +39,16 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 
 ---
 
-### • Tools & Technologies
+### → Tools & Technologies
 | Design | Development | Editing |
 |:------:|:------------:|:--------:|
 | Adobe Illustrator | HTML, CSS, JS | Adobe Premiere Pro |
 | Figma | React, Tailwind CSS | After Effects |
-| Photoshop | Git & GitHub | DaVinci Resolve |
+| Photoshop | Git & GitHub | CapCut |
 
 ---
 
-### • Let’s Connect
+### → Let’s Connect
 → **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
 → **Upwork:** [upwork.com/freelancers/~0135365ac3c104690b?mp_source=share](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
 → **LinkedIn:** [linkedin.com/in/zakyk9](https://www.linkedin.com/in/zakyk9/)  
