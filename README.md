@@ -6,7 +6,7 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ---
 
-### → About Me
+# About Me
 • Currently working as a **Freelance Graphic Designer & Frontend Developer**.  
 • Experienced in **visual identity design**, **UI design**, and **web implementation** using modern frontend frameworks.  
 • Previously worked in **Information Technology Operations Support** within the private banking sector.  
@@ -15,12 +15,12 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ---
 
-### → My Focus
+# My Focus
 Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • Tailored to Each Brand’s Voice  
 
 ---
 
-### → What I Do
+# What I Do
 #### → Design
 • Logo & Brand Identity Design  
 • UI/UX & Web Layout Design  
@@ -36,7 +36,7 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 
 ---
 
-### → Tools & Technologies
+# Tools & Technologies
 | Design | Development | Editing |
 |:------:|:------------:|:--------:|
 | Adobe Illustrator | HTML, CSS, JS | Adobe Premiere Pro |
