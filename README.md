@@ -49,18 +49,12 @@ Strategic • Minimal yet Memorable • Emotionally Resonant • Functional • 
 ---
 
 ### → Let’s Connect
-→ **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
-→ **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
-→ **LinkedIn:** [Linkedin Zaky](https://www.linkedin.com/in/zakyk9/)  
-→ **Explore My Website:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)  
+• 📩 **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
+• 💼 **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
+• 💼 **LinkedIn:** [Linkedin Zaky](https://www.linkedin.com/in/zakyk9/)  
+• 🌐 **Explore My Website:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)  
 
 ---
 
 > “I design with purpose and code with precision — where creativity meets logic.”  
 > — *Zaky*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="Zaky's GitHub stats"/>
-</p>
