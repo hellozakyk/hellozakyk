@@ -37,8 +37,8 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ### → Professional Profiles
 
-•  **LinkedIn:** [Linkedin Zaky](https://www.linkedin.com/in/zakyk9/)
-•  **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)
+•  **LinkedIn:** [ZakyK](https://www.linkedin.com/in/zakyk9/)
+•  **Upwork:** [Upwork Freelance](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)
 
 ### → Contact & Portfolio
 
