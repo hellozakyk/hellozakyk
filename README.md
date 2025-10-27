@@ -8,9 +8,6 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 # 📌 About Me
 • Currently working as a **Freelance Graphic Designer & Frontend Developer**.  
-• Experienced in **visual identity design**, **UI design**, and **web implementation** using modern frontend frameworks.  
-• Previously worked in **Information Technology Operations Support** within the private banking sector.  
-• Have solid knowledge in **video editing** to enhance visual storytelling.  
 • Academic background in **Information Technology**, where I learned to bridge creativity with code.  
 
 ---
@@ -18,10 +15,8 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 # 💼 What I Do
 ### → Design
 • Logo & Brand Identity Design  
-• UI/UX & Web Layout Design  
+• UI & Web Layout Design  
 • Brand Guidelines Development  
-• Illustration & Vector Artwork  
-• Packaging & Marketing Collateral  
 
 ### → Frontend Development
 • Responsive Website Development  
@@ -35,8 +30,8 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 | Design | Development | Editing |
 |:------:|:------------:|:--------:|
 | Adobe Illustrator | HTML, CSS, JS | Adobe Premiere Pro |
-| Figma | React, Tailwind CSS | After Effects |
-| Photoshop | Git & GitHub | CapCut |
+| Adobe Photoshop | React, Tailwind CSS | After Effects |
+| Figma | Git & GitHub | CapCut |
 
 ---
 
