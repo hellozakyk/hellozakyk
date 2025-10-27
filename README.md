@@ -27,8 +27,7 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 ---
 
 # 🛠 Tools & Technologies
-| Design | Development | 
-|:------:|:------------:|:--------:|
+| Design | Development | |
 | Adobe Illustrator | HTML, CSS, JS | 
 | Adobe Photoshop | React, Tailwind CSS |
 | Figma | Git & GitHub |
