@@ -6,9 +6,8 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ---
 
-# 📌 About Me
-• Currently working as a **Freelance Graphic Designer & Frontend Developer**.  
-• Academic background in **Information Technology**, where I learned to bridge creativity with code.  
+# 📌Currently Working On
+• **Freelance Graphic Designer & Frontend Developer**. 
 
 ---
 
