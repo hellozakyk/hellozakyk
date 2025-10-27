@@ -27,11 +27,11 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 ---
 
 # 🛠 Tools & Technologies
-| Design | Development | Editing |
+| Design | Development | 
 |:------:|:------------:|:--------:|
-| Adobe Illustrator | HTML, CSS, JS | Adobe Premiere Pro |
-| Adobe Photoshop | React, Tailwind CSS | After Effects |
-| Figma | Git & GitHub | CapCut |
+| Adobe Illustrator | HTML, CSS, JS | 
+| Adobe Photoshop | React, Tailwind CSS |
+| Figma | Git & GitHub |
 
 ---
 
