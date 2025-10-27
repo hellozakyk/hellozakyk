@@ -34,14 +34,10 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ---
 
-### → Professional Profiles
-
-•  **LinkedIn:** [ZakyK](https://www.linkedin.com/in/zakyk9/)
-•  **Upwork:** [Freelance](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)
-
-### → Contact & Portfolio
-
-•  **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)
-•  **Explore My Website:** [ZakyK](http://zakyk-portfolio.vercel.app/)
+### • Let’s Connect
+→ **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
+→ **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
+→ **LinkedIn:** [ZakyK](https://www.linkedin.com/in/zakyk9/)  
+→ **Portfolio:** [Portfoilio](http://zakyk-portfolio.vercel.app/)
 
 ---
