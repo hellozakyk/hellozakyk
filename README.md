@@ -42,6 +42,6 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 ### → Contact & Portfolio
 
 •  **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)
-•  **Explore My Website:** [zakyk-portfolio.vercel.app](http://zakyk-portfolio.vercel.app/)
+•  **Explore My Website:** [ZakyK](http://zakyk-portfolio.vercel.app/)
 
 ---
