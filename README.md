@@ -7,7 +7,8 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 ---
 
 # 📌Currently Working On
-• **Freelance Graphic Designer & Frontend Developer**. 
+• **Freelance Graphic Designer & Frontend Developer**
+→ **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
 
 ---
 
@@ -36,8 +37,7 @@ I combine **a designer’s eye for aesthetics** with **a developer’s mind for 
 
 ### • Let’s Connect
 → **Email:** [zaki4588@gmail.com](mailto:zaki4588@gmail.com)  
-→ **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~0135365ac3c104690b?mp_source=share)  
 → **LinkedIn:** [ZakyK](https://www.linkedin.com/in/zakyk9/)  
-→ **Portfolio:** [Portfoilio](http://zakyk-portfolio.vercel.app/)
+→ **Portfolio:** [Visit My Site](http://zakyk-portfolio.vercel.app/)
 
 ---
